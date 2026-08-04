@@ -8,7 +8,7 @@ This project presents an interactive HR Analytics Dashboard developed using Powe
 
 Click below to view the complete dashboard:
 
-[📥 View HR Analytics Dashboard (PDF)](HR Analytics Dashboard.pdf)
+[📥 View HR Analytics Dashboard (PDF)](HR_Analytics_Dashboard.pdf)
 
 ## Features
 
@@ -38,9 +38,9 @@ Click below to view the complete dashboard:
 
 ## Files
 
-- HR Analytics Dashboard.pbix
+- HR_Analytics_Dashboard.pbix
 - HR_Analytics.csv
-- HR Analytics Dashboard.pdf
+- HR_Analytics_Dashboard.pdf
 
 ## Author
 
