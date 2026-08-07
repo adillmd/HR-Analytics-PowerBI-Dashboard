@@ -4,6 +4,10 @@
 
 This project presents an interactive HR Analytics Dashboard developed using Power BI to analyze employee data and key workforce metrics.
 
+## 📷 Dashboard Preview
+
+![Dashboard Preview](Dashboard_Screenshot.png)
+
 ## 📄 Dashboard PDF
 
 Click below to view the complete dashboard:
